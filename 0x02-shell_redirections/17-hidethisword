@@ -1,0 +1,2 @@
+#!/bin/bash
+eprep -v "bin" /etc/passwd
